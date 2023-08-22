@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&family=Lilita+One&family=Press+Start+2P&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lilita+One&display=swap');
+
+body{
+    height: 900px;
+    background: linear-gradient(to bottom, #0E1826, #253140, #4F5F73);
+    margin-top: 300px;
+}
+div{
+    font-family: 'Bree Serif', serif;
+    min-height: 250px;
+    margin: auto;
+    text-align: center;
+    max-width: 600px;
+    background: linear-gradient(to bottom, #0E1826, #253140, #4F5F73);
+    color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.233);
+}
+h1{
+    font-family: 'Lilita One', cursive;
+    padding-top: 20px;
+    text-shadow: 2px 2px black;
+}
+input{
+    font-size: 1.5em;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: #4F5F73;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.233);
+}
+button{
+    text-shadow: 2px 2px black;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #4F5F73;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.233);
+}
+p{
+    text-shadow: 1px 1px black;
+    line-height: 50px;
+    font-size: 1.5em;
+}
